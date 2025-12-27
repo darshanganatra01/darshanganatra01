@@ -1,58 +1,73 @@
 <h1 align="center">Darshan Ganatra</h1>
 
 <p align="center">
-Data Science • Machine Learning • Deep Learning • Teaching
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Teaching+and+Mentoring;Applied+Projects+and+Real-World+Data" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/darshan-ganatra-689915281/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="https://www.youtube.com/@dslaunchpad_2829">
-  <img src="https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube">
-</a>
-<a href="https://www.instagram.com/darshan__ganatra/">
-  <img src="https://img.shields.io/badge/Instagram-Social-pink?style=flat-square&logo=instagram">
-</a>
+  <a href="https://www.linkedin.com/in/darshan-ganatra-689915281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://www.youtube.com/@dslaunchpad_2829">
+    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube">
+  </a>
+  <a href="https://www.instagram.com/darshan__ganatra/">
+    <img src="https://img.shields.io/badge/Instagram-Social-pink?style=flat&logo=instagram">
+  </a>
 </p>
 
 ---
 
 ## About
 
-I work on Data Science and Machine Learning projects with a strong interest in exploring Deep Learning in practice.
+I work in the areas of Data Science and Analytics, with hands-on experience across academic and industry-aligned projects. My work includes building data-driven applications, applying machine learning techniques to real-world datasets, and conducting structured business and analytical studies.
 
-Alongside project work, I am actively involved in teaching and mentoring, which has been a core part of my academic and technical journey.
-
----
-
-## What I Work On
-- Machine Learning and Deep Learning practice  
-- End-to-end ML workflows  
-- Business-focused data analysis  
-- Teaching and mentoring in technical subjects  
+Teaching and mentoring are an important part of my journey. I have experience supporting technical courses and guiding others through applied development and analytical concepts, with a strong focus on clarity and practical understanding.
 
 ---
 
-## Experience Highlights
-- Industry experience through a full-stack development internship involving data-driven applications  
+## My World Revolves Around
+
+- Data Science and Analytics
+- Practical exploration of Deep Learning
+- Exploring GenAI
+- Business and real-world data analysis  
+- End-to-end machine learning workflows  
+- Teaching and mentoring in technical subjects
+- And Obviously Travelling and Havign Fun
+
+---
+
+## Experience Snapshot
+
+- Full-stack development internship involving data-driven dashboards and REST-based systems  
 - Teaching Assistant for Modern Application Development courses  
-- Hands-on work with real business data through analytics and ML projects  
 
 ---
 
-## Content & Online Presence
-- **YouTube:** Personal channel where I upload content I choose to teach or share  
-  https://www.youtube.com/@dslaunchpad_2829
+## Projects
 
-- **LinkedIn:** Professional updates and projects  
+This profile contains:
+- Business analytics and data management projects  
+- Applied machine learning practice projects  
+- Structured reports, notebooks, and presentations  
+- Reproducible workflows and documented analysis  
+
+---
+
+## Online Presence
+
+- **LinkedIn**  
   https://www.linkedin.com/in/darshan-ganatra-689915281/
 
-- **Instagram:** Personal and social content  
+- **YouTube**  
+  https://www.youtube.com/@dslaunchpad_2829
+
+- **Instagram**  
   https://www.instagram.com/darshan__ganatra/
 
 ---
 
 <p align="center">
-<sub>Focused on learning, building, and teaching.</sub>
+  <sub>Learning, building, and teaching — one project at a time.</sub>
 </p>
