@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:252525&height=320&section=header&text=Darshan%20Ganatra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Educator%20%7C%20Analyst&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:202020&height=320&section=header&text=Darshan%20Ganatra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Educator%20%7C%20Analyst&descAlignY=55&descAlign=50" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Data+Science+%26+Analytics;Machine+Learning+%26+Deep+Learning;Teaching+and+Mentoring;Actively+Seeking+Opportunities+in+Data+Science" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:252525,100:000000&height=45&text=About&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=45&text=About&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
 </div>
 
 <br />
@@ -31,7 +31,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Person/Technologist.png" alt="Technologist" width="120" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="120" />
     </td>
     <td width="80%" valign="middle">
       I work in the areas of <b>Data Science and Analytics</b>, with hands-on experience across academic and industry-aligned projects. My work includes building data-driven applications, applying machine learning techniques to real-world datasets, and conducting structured business and analytical studies.
@@ -46,7 +46,7 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:252525,100:000000&height=45&text=My%20World%20Revolves%20Around&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=45&text=My%20World%20Revolves%20Around&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
 </div>
 
 <br />
@@ -92,16 +92,16 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:252525,100:000000&height=45&text=Projects&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=45&text=Projects&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <table border="0" width="80%">
+  <table border="0" width="85%" cellspacing="0">
     <tr>
-      <td align="left">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="25" /> This profile contains:</h3>
+      <td align="left" style="border: 1px solid #444; border-radius: 15px; padding: 25px; background-color: #0d1117;">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="28" /> This profile contains:</h3>
         <ul>
           <li><b>Business analytics and data management projects</b></li>
           <li><b>Applied machine learning practice projects</b></li>
