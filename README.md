@@ -34,7 +34,7 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="120" />
     </td>
     <td width="80%" valign="middle">
-      I work in the areas of <b>Data Science and Analytics</b>, with hands-on experience across academic and industry-aligned projects. My work includes building data-driven applications, applying machine learning techniques to real-world datasets, and conducting structured business and analytical studies.
+      I have interest in areas of <b>Data Science and Analytics</b>, with hands-on experience across academic and industry-aligned projects. My past word includes building data-driven dashboards, applying machine learning techniques to real-world datasets, and conducting structured business and analytical studies.
       <br /><br />
       <b>Teaching and mentoring</b> are an important part of my journey. I have experience supporting technical courses and guiding others through applied development and analytical concepts, with a strong focus on clarity and practical understanding.
       <br /><br />
@@ -60,7 +60,7 @@
       </td>
     <td align="center" width="25%">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="55" /><br />
-    <b>Practical exploration of Deep Learning</b>
+    <b>learnign Deep The Deep Learning</b>
 </td>
       <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="55" /><br />
@@ -82,7 +82,7 @@
       </td>
       <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" width="55" /><br />
-        <b>And Obviously Travelling and Having Fun</b>
+        <b>Travelling and Having Fun</b>
       </td>
       <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="55" /><br />
