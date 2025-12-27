@@ -31,7 +31,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="https://img.icons8.com/3d-fluency/94/user-male-circle.png" alt="Technologist" width="120" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="120" />
     </td>
     <td width="80%" valign="middle">
       I work in the areas of <b>Data Science and Analytics</b>, with hands-on experience across academic and industry-aligned projects. My work includes building data-driven applications, applying machine learning techniques to real-world datasets, and conducting structured business and analytical studies.
@@ -55,33 +55,33 @@
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/positive-dynamic.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="55" /><br />
         <b>Data Science & Analytics</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/brain.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="55" /><br />
         <b>Practical exploration of Deep Learning</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/robot-3.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="55" /><br />
         <b>Exploring GenAI</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/bar-chart.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="55" /><br />
         <b>Business & real-world data analysis</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="55" /><br />
         <b>End-to-end machine learning workflows</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/classroom.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" width="55" /><br />
         <b>Teaching and mentoring in technical subjects</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/airplane-take-off.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" width="55" /><br />
         <b>And Obviously Travelling and Having Fun</b>
       </td>
       <td width="25%"></td>
@@ -101,7 +101,7 @@
   <table border="0" width="100%" cellspacing="0">
     <tr>
       <td align="left" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-        <h3><img src="https://img.icons8.com/3d-fluency/94/spiral-bound-booklet.png" width="28" /> This profile contains:</h3>
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="28" /> This profile contains:</h3>
         <ul>
           <li><b>Business analytics and data management projects</b></li>
           <li><b>Applied machine learning practice projects</b></li>
