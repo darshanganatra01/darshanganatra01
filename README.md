@@ -60,7 +60,7 @@
       </td>
     <td align="center" width="25%">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="55" /><br />
-    <b>learnign Deep The Deep Learning</b>
+    <b>Learnig Deep The Deep Learning</b>
 </td>
       <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="55" /><br />
