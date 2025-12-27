@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:202020&height=300&section=header&text=Darshan%20Ganatra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Educator%20%7C%20Analyst&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:252525&height=320&section=header&text=Darshan%20Ganatra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Educator%20%7C%20Analyst&descAlignY=55&descAlign=50" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Teaching+and+Mentoring;Applied+Projects+and+Real-World+Data;Travelling+and+Having+Fun" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Teaching+and+Mentoring;Applied+Projects+and+Real-World+Data" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,17 +23,17 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=50&text=About&fontSize=26&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:252525,100:000000&height=45&text=About&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
 </div>
 
 <br />
 
 <table border="0" width="100%">
   <tr>
-    <td width="15%" valign="center" align="center">
-       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Person/Technologist.png" alt="Technologist" width="80" />
+    <td width="15%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Person/Technologist.png" alt="Technologist" width="85" />
     </td>
-    <td width="85%" valign="center">
+    <td width="85%" valign="middle">
       I work in the areas of <b>Data Science and Analytics</b>, with hands-on experience across academic and industry-aligned projects. My work includes building data-driven applications, applying machine learning techniques to real-world datasets, and conducting structured business and analytical studies.
       <br /><br />
       <b>Teaching and mentoring</b> are an important part of my journey. I have experience supporting technical courses and guiding others through applied development and analytical concepts, with a strong focus on clarity and practical understanding.
@@ -44,45 +44,45 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=50&text=My%20World%20Revolves%20Around&fontSize=26&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:252525,100:000000&height=45&text=My%20World%20Revolves%20Around&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <table border="0" cellpadding="15">
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="45" /><br />
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="45" /><br />
         <b>Data Science & Analytics</b>
       </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/8637/8637105.png" width="45" /><br />
-        <b>Deep Learning</b>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="45" /><br />
+        <b>Practical exploration of Deep Learning</b>
       </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/12395/12395786.png" width="45" /><br />
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="45" /><br />
         <b>Exploring GenAI</b>
       </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2010/2010990.png" width="45" /><br />
-        <b>Business Analysis</b>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="45" /><br />
+        <b>Business & real-world data analysis</b>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/9626/9626620.png" width="45" /><br />
-        <b>End-to-end ML Workflows</b>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="45" /><br />
+        <b>End-to-end machine learning workflows</b>
       </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/3069/3069172.png" width="45" /><br />
-        <b>Teaching & Mentoring</b>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" width="45" /><br />
+        <b>Teaching and mentoring in technical subjects</b>
       </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2200/2200326.png" width="45" /><br />
-        <b>Traveling & Fun</b>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" width="45" /><br />
+        <b>And Obviously Travelling and Having Fun</b>
       </td>
-      <td align="center"></td>
+      <td width="25%"></td>
     </tr>
   </table>
 </div>
@@ -90,39 +90,39 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=50&text=Experience%20Snapshot&fontSize=26&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:252525,100:000000&height=45&text=Experience%20Snapshot&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
+</div>
+
+<br />
+
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="18" /> **Full-stack development internship** involving data-driven dashboards and REST-based systems.
+>
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="18" /> **Teaching Assistant** for Modern Application Development courses.
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:252525,100:000000&height=45&text=Projects&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
 </div>
 
 <br />
 
 <table border="0" width="100%">
   <tr>
-    <td valign="top">
+    <td>
+      <b>This profile contains:</b>
       <ul>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20"/> <b>Full-stack development internship</b> involving data-driven dashboards and REST-based systems.</li>
-        <br />
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="20"/> <b>Teaching Assistant</b> for Modern Application Development courses.</li>
+        <li>Business analytics and data management projects</li>
+        <li>Applied machine learning practice projects</li>
+        <li>Structured reports, notebooks, and presentations</li>
+        <li>Reproducible workflows and documented analysis</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=50&text=Projects&fontSize=26&fontColor=ffffff&fontAlignY=50" width="100%" />
-</div>
-
-<br />
-
-> **This profile contains:**
-> * Business analytics and data management projects
-> * Applied machine learning practice projects
-> * Structured reports, notebooks, and presentations
-> * Reproducible workflows and documented analysis
-
 <br /><br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Learning,%20building,%20and%20teaching%20—%20one%20project%20at%20a%20time.&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Learning,%20building,%20and%20teaching%20—%20one%20project%20at%20a%20time.&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 </div>
