@@ -1,65 +1,59 @@
 <h1 align="center">Darshan Ganatra</h1>
 
 <p align="center">
-Deep Learning explorer • Educator by passion • Builder by instinct
+Applied ML & Deep Learning • Teaching-focused • Hands-on projects
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/darshan-ganatra-689915281/">LinkedIn</a> ·
-<a href="https://www.youtube.com/@dslaunchpad_2829">YouTube</a> ·
-<a href="https://www.instagram.com/darshan__ganatra/">Instagram</a>
+<a href="https://www.linkedin.com/in/darshan-ganatra-689915281/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="https://www.youtube.com/@dslaunchpad_2829">
+  <img src="https://img.shields.io/badge/YouTube-ML%20Content-red?style=flat-square&logo=youtube">
+</a>
+<a href="https://www.instagram.com/darshan__ganatra/">
+  <img src="https://img.shields.io/badge/Instagram-Learning%20Journey-pink?style=flat-square&logo=instagram">
+</a>
 </p>
 
 ---
 
-## About Me
-
-I care deeply about **how models actually learn**, not just how to use them.
-
-My work lives at the intersection of **Deep Learning, real-world data, and teaching**.  
-I build end-to-end ML systems, experiment relentlessly, and spend a large part of my time explaining complex ideas until they become simple.
-
-Teaching is not a side activity for me — it is how I sharpen my own understanding.
+## Focus Areas
+- Applied Machine Learning and Deep Learning  
+- End-to-end ML workflows and experimentation  
+- Real-world data analysis and modeling  
+- Teaching, mentoring, and concept breakdown  
 
 ---
 
-## What I Focus On
+## What I Do
+I work on machine learning problems by building complete pipelines from exploration and modeling to evaluation and interpretation.  
+Alongside this, I actively teach and mentor, because explaining concepts is how I deepen my own understanding.
 
-- Applied Deep Learning and Machine Learning  
-- End-to-end ML pipelines and experimentation  
-- Learning by building and validating with real data  
-- Teaching, mentoring, and explaining concepts clearly  
-- Translating theory into practice
+Most of my work sits at the intersection of **practice, experimentation, and education**.
 
 ---
 
 ## What You’ll Find Here
-
-- Clean, well-documented ML projects  
-- Real-world analytics and modeling work  
-- Reproducible experiments  
+- Machine learning and data science projects  
+- Clean notebooks with structured workflows  
+- Business-focused analytics work  
 - Teaching-oriented explanations alongside code  
 
 ---
 
-## Learning in Public
-
-I actively share my learning journey through content and teaching:
-
-- **YouTube:** Practical ML, concepts explained clearly, no noise  
+## Content & Teaching
+I share practical ML learning and explanations through:
+- **YouTube:** applied ML concepts and walkthroughs  
   https://www.youtube.com/@dslaunchpad_2829
-
-- **LinkedIn:** Work, projects, and professional updates  
-  https://www.linkedin.com/in/darshan-ganatra-689915281/
-
-- **Instagram:** Behind-the-scenes learning and growth  
-  https://www.instagram.com/darshan__ganatra/
 
 ---
 
-## Philosophy
+## Current Direction
+Exploring deeper aspects of model behavior, learning dynamics, and practical Deep Learning through continuous experimentation and teaching.
 
-Build things.  
-Understand them deeply.  
-Teach what you learn.  
-Repeat.
+---
+
+<p align="center">
+<sub>Build. Understand. Teach. Repeat.</sub>
+</p>
