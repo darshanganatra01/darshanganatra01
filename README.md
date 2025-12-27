@@ -95,12 +95,6 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=45&text=Projects&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=45&text=My%20Tech%20Arsenal&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
 </div>
 
@@ -132,6 +126,12 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:000000&height=45&text=Projects&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%" />
+</div>
+
+<br />
 
 <br />
 
