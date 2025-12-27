@@ -1,26 +1,65 @@
-# Hey, I’m Darshan 👋
+<h1 align="center">Darshan Ganatra</h1>
 
-I love teaching, I enjoy breaking things down until they *actually make sense*, and I’m deeply curious about how deep learning models learn, fail, and improve.
+<p align="center">
+Deep Learning explorer • Educator by passion • Builder by instinct
+</p>
 
-I work at the intersection of **real-world data, machine learning practice, and education** — building projects, experimenting with models, and sharing what I learn through teaching and content.
-
----
-
-## What I’m about
-- 🧠 Exploring Deep Learning beyond theory  
-- 📊 Turning messy data into useful insights  
-- 🧪 Building end-to-end ML pipelines  
-- 🎓 Teaching and mentoring (because learning sticks when you explain it)
-- 🚀 Constantly experimenting, refining, and learning in public
+<p align="center">
+<a href="https://www.linkedin.com/in/darshan-ganatra-689915281/">LinkedIn</a> ·
+<a href="https://www.youtube.com/@dslaunchpad_2829">YouTube</a> ·
+<a href="https://www.instagram.com/darshan__ganatra/">Instagram</a>
+</p>
 
 ---
 
-## Find me here
-- 💼 LinkedIn: https://www.linkedin.com/in/darshan-ganatra-689915281/
-- 📸 Instagram: https://www.instagram.com/darshan__ganatra/
-- 🎥 YouTube (ML + Data content): https://www.youtube.com/@dslaunchpad_2829
+## About Me
+
+I care deeply about **how models actually learn**, not just how to use them.
+
+My work lives at the intersection of **Deep Learning, real-world data, and teaching**.  
+I build end-to-end ML systems, experiment relentlessly, and spend a large part of my time explaining complex ideas until they become simple.
+
+Teaching is not a side activity for me — it is how I sharpen my own understanding.
 
 ---
 
-*Always building. Always learning. Always teaching.*
+## What I Focus On
 
+- Applied Deep Learning and Machine Learning  
+- End-to-end ML pipelines and experimentation  
+- Learning by building and validating with real data  
+- Teaching, mentoring, and explaining concepts clearly  
+- Translating theory into practice
+
+---
+
+## What You’ll Find Here
+
+- Clean, well-documented ML projects  
+- Real-world analytics and modeling work  
+- Reproducible experiments  
+- Teaching-oriented explanations alongside code  
+
+---
+
+## Learning in Public
+
+I actively share my learning journey through content and teaching:
+
+- **YouTube:** Practical ML, concepts explained clearly, no noise  
+  https://www.youtube.com/@dslaunchpad_2829
+
+- **LinkedIn:** Work, projects, and professional updates  
+  https://www.linkedin.com/in/darshan-ganatra-689915281/
+
+- **Instagram:** Behind-the-scenes learning and growth  
+  https://www.instagram.com/darshan__ganatra/
+
+---
+
+## Philosophy
+
+Build things.  
+Understand them deeply.  
+Teach what you learn.  
+Repeat.
