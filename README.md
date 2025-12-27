@@ -63,7 +63,7 @@
         <b>Practical exploration of Deep Learning</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" width="55" /><br />
         <b>Exploring GenAI</b>
       </td>
       <td align="center" width="25%">
@@ -85,7 +85,7 @@
         <b>And Obviously Travelling and Having Fun</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20bulb.png" width="55" /><br />
         <b>Learning New Things</b>
       </td>
     </tr>
