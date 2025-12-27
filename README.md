@@ -59,11 +59,11 @@
         <b>Data Science & Analytics</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="55" /><br />
         <b>Practical exploration of Deep Learning</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" width="55" /><br />
         <b>Exploring GenAI</b>
       </td>
       <td align="center" width="25%">
@@ -102,7 +102,7 @@
 <ul>
   <li>📊 <b>Business analytics and data management projects</b></li>
   <li>🤖 <b>Applied machine learning practice projects</b></li>
-  <li>💻 <b>Full-stack projects</b></li>
+  <li>💻 <b>Full-stack application development projects</b></li>
   <li>📝 <b>Structured reports, notebooks, and presentations</b></li>
 </ul>
 
