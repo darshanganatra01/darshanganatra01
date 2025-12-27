@@ -100,14 +100,16 @@
 <div align="center">
   <table border="0" width="100%" cellspacing="0">
     <tr>
-      <td align="left" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="28" /> This profile contains:</h3>
-        <ul>
-          <li><b>Business analytics and data management projects</b></li>
-          <li><b>Applied machine learning practice projects</b></li>
-          <li><b>Structured reports, notebooks, and presentations</b></li>
-          <li><b>Reproducible workflows and documented analysis</b></li>
-        </ul>
+      <td align="left">
+        <blockquote>
+          <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="28" /> This profile contains:</h3>
+          <ul>
+            <li><b>Business analytics and data management projects</b></li>
+            <li><b>Applied machine learning practice projects</b></li>
+            <li><b>Structured reports, notebooks, and presentations</b></li>
+            <li><b>Reproducible workflows and documented analysis</b></li>
+          </ul>
+        </blockquote>
       </td>
     </tr>
   </table>
