@@ -59,11 +59,11 @@
         <b>Data Science & Analytics</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://cdn-icons-png.flaticon.com/512/2083/2083214.png" width="55" /><br />
+        <img src="https://cdn-icons-png.flaticon.com/512/10605/10605740.png" width="55" /><br />
         <b>Practical exploration of Deep Learning</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://cdn-icons-png.flaticon.com/512/12395/12395786.png" width="55" /><br />
+        <img src="https://cdn-icons-png.flaticon.com/512/12128/12128888.png" width="55" /><br />
         <b>Exploring GenAI</b>
       </td>
       <td align="center" width="25%">
@@ -85,7 +85,7 @@
         <b>And Obviously Travelling and Having Fun</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://cdn-icons-png.flaticon.com/512/4661/4661361.png" width="55" /><br />
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" width="55" /><br />
         <b>Learning New Things</b>
       </td>
     </tr>
