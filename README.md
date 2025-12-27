@@ -58,8 +58,8 @@
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="55" /><br />
         <b>Data Science & Analytics</b>
       </td>
-      <td align="center" width="25%">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="55" /><br />
+    <td align="center" width="25%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="55" /><br />
     <b>Practical exploration of Deep Learning</b>
 </td>
       <td align="center" width="25%">
