@@ -59,11 +59,11 @@
         <b>Data Science & Analytics</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="55" /><br />
         <b>Practical exploration of Deep Learning</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" width="55" /><br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="55" /><br />
         <b>Exploring GenAI</b>
       </td>
       <td align="center" width="25%">
@@ -84,7 +84,10 @@
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" width="55" /><br />
         <b>And Obviously Travelling and Having Fun</b>
       </td>
-      <td width="25%"></td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="55" /><br />
+        <b>Learning New Things</b>
+      </td>
     </tr>
   </table>
 </div>
